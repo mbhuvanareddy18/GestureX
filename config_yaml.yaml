@@ -1,0 +1,11 @@
+gestures:
+  - swipe
+  - fist
+  - point
+  - ok
+  - thumbs_up
+
+ui:
+  language: en
+  voice_feedback: true
+  sensitivity: 0.7

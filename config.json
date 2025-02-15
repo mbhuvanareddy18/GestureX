@@ -1,0 +1,13 @@
+{
+    "gestures": {
+        "Open Palm": "Scroll Down",
+        "Fist": "Close Assistant",
+        "Thumbs Up": "Say Okay",
+        "Thumbs Down": "Say No",
+        "Swipe Left": "Go Back",
+        "Swipe Right": "Go Forward",
+        "Two Fingers Up": "Scroll Up",
+        "Pointing Finger": "Click",
+        "Wave": "Greet"
+    }
+}

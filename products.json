@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Nike Air Max Shoes",
+        "price": 120,
+        "image": "nike_air_max.jpg",
+        "description": "The latest Nike Air Max with advanced cushioning."
+    },
+    {
+        "name": "Apple iPhone 15",
+        "price": 999,
+        "image": "iphone_15.jpg",
+        "description": "Experience the future with the new iPhone 15."
+    },
+    {
+        "name": "Samsung 4K Smart TV",
+        "price": 750,
+        "image": "samsung_tv.jpg",
+        "description": "Crystal-clear 4K display with built-in AI assistant."
+    }
+]
