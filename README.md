@@ -1,4 +1,4 @@
-# Gesture-Based Kiosk Interaction System
+# Irha: The Gesture-Based Kiosk Interaction System
 
 This project implements a real-time gesture-based human-computer interaction system that allows users to navigate kiosks and interact with digital interfaces without physical touch.
 
